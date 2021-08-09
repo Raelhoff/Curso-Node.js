@@ -5,7 +5,7 @@ Curso Node
 
  
 
-##1 – Introdução Node.js
+## 1 – Introdução Node.js
 
 1.1 – O problema das arquiteturas bloqueantes
 
