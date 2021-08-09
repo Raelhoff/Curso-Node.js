@@ -1,0 +1,17 @@
+<informacoes>
+	<dia>01/06/2017</dia>
+  	<pessoas>
+  		<pessoa>
+  			<sexo>feminino</sexo>
+  			<primeironome>Anna</primeironome>
+  			<últimonome>Smith</últimonome>
+		</pessoa>
+		<pessoa>
+  			<sexo>masculino</sexo>
+  			<primeironome>Pedro</primeironome>
+  			<últimonome>Souza</últimonome>
+  		</pessoa>
+	</pessoas>
+</informacoes>
+
+

@@ -1,0 +1,17 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rafael Wilmar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+	  "body-parser":"*",
+    "express-load":"*",
+    "ejs":"*"
+  }
+}

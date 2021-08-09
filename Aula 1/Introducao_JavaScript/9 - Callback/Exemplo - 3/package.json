@@ -1,0 +1,11 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "meu app hoje",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "rafael",
+  "license": "ISC"
+}

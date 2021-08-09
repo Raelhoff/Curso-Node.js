@@ -1,0 +1,16 @@
+{
+  "name": "exercicios_log4js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Wilmar",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "find-remove": "^1.0.1",
+    "log4js": "^1.1.1"
+  }
+}

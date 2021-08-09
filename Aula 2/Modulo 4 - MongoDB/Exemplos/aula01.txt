@@ -1,0 +1,26 @@
+
+//exibir todos os bancos
+show dbs
+
+// criar banco
+use db_node
+
+// verificar em qual banco voce esta
+db
+show dbs
+
+// cria coleção/tabela
+db.createCollection('aula')
+show dbs
+show collections
+
+db.createCollection('curso')
+show collections
+
+db.aula.drop()
+show collections
+
+db.curso.drop()
+show collections
+
+show dbs

@@ -1,0 +1,22 @@
+{
+  "name": "Projeto Piloto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Wilmar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "c-struct": "*",
+    "dateformat": "1.0.11",
+    "eversocket": "0.0.4",
+    "express": "4.10.2",
+    "font-awesome": "*",
+    "request": "^2.81.0",
+    "socket.io": "1.2.0",
+     "mongoose": "^4.10.2"
+  }
+}

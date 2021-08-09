@@ -1,0 +1,60 @@
+Atividades para fixação do conteúdo
+
+1) Crie um banco de dados chamado biblioteca
+
+
+2) Crie uma coleção (collection) chamada livros
+
+
+3) Crie os sequintes documentos:
+
+titulo: Introdução a linguagem de marcacao HTML
+valor: 25
+Autor: Joao
+
+--
+
+titulo: NodeJS do basico ao avançado
+valor: 280
+Autor: Jorge
+
+--
+
+titulo: Android - criando apps reais
+valor: 290
+Autor: Jamilton
+
+--
+
+titulo: PHP e MySQL
+valor: 190
+Autor: Fernando
+
+--
+
+titulo: Logica de Pormogracao
+valor: 20
+Autor: Maria
+
+
+
+4) Crie as seguintes consultas:
+
+Crie uma consulta que retorne apenas os documentos de livros com valores igual 290
+
+Crie uma consulta que retorne todos os documentos cujo o autor seja Fernando
+
+
+5) Atualize os seguintes documentos:
+
+Atualize o documento cujo o titulo é PHP e MySQL, passando seu valor de 190 para 175
+
+Atualize o documento cujo autor é Jorge, passando seu titulo para Curso Completo de NodeJS
+
+
+6) Remove os seguintes documentos:
+
+Remova o documento cujo autor é Joao
+
+
+7) Delete o banco de dados chamado biblioteca

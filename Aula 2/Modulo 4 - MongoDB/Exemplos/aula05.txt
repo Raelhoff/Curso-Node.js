@@ -1,0 +1,11 @@
+cls
+db.data.count()
+
+db.data.remove({mes:12})
+db.data.count()
+
+db.data.remove({dia:2})
+db.data.count()
+
+db.dropDatabase()
+show dbs

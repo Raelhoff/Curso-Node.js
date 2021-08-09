@@ -1,0 +1,8 @@
+{
+  "name": "c-struc dgran - (UDP)",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+   	"c-struc":"*" 
+  }
+}

@@ -1,0 +1,10 @@
+cls
+use db_node
+
+db.data.find()
+cls
+
+db.data.findOne()
+db.data.findOne({dia: 2})
+db.data.find({ano:2017})
+cls
