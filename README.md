@@ -15,7 +15,7 @@ Curso Node
 
 1.4 – Teste de ambiente
 
-##2 - Por que o assíncrono?
+## 2 - Por que o assíncrono?
 
 2.1 – Desenvolvendo de forma assíncrona
 
@@ -25,7 +25,7 @@ Curso Node
 
  
 
-##3 – Gerenciando módulos com NPM
+## 3 – Gerenciando módulos com NPM
 
 3.1 – O que é e o que faz o NPM?
 
@@ -35,7 +35,7 @@ Curso Node
 
  
 
-##4 – Introdução ao JavaScript
+## 4 – Introdução ao JavaScript
 
 4.1 – Como surge JavaScript?
 
@@ -46,7 +46,7 @@ Curso Node
 4.4 – Desafios do módulo
 
 
-##5 – Módulos do Núcleo do Node
+## 5 – Módulos do Núcleo do Node
 
 5.1 – Sistemas de módulos
 
@@ -64,7 +64,7 @@ Curso Node
 
 
 
-##6 – Express: framework para Node.js
+## 6 – Express: framework para Node.js
 
 6.1 – Introdução ao Express
 
@@ -86,7 +86,7 @@ Curso Node
 
 6.10 – Desafio do módulo
 
-##7 – MongoDB
+## 7 – MongoDB
 
 7.1 – Introdução ao banco de dados NoSQL
 
@@ -96,7 +96,7 @@ Curso Node
 
 7.4 – Desafio do módulo
 
-##8 – Módulos de Desenvolvimento
+## 8 – Módulos de Desenvolvimento
 
 8.1 - JSONFILE
 
@@ -110,4 +110,4 @@ Curso Node
 
  
 
-##9 – Projetos Piloto (Revisão de todo o conteúdo visto)
+## 9 – Projetos Piloto (Revisão de todo o conteúdo visto)
